@@ -1,0 +1,39 @@
+@font-face {
+	font-family: Nunito Sans;
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: url("../fonts/Nunito Sans/NunitoSans.woff2") format("woff2"),
+	url("../fonts/Nunito Sans/NunitoSans.woff") format("woff"),
+	url("../fonts/Nunito Sans/NunitoSans.ttf") format("ttf");
+}
+
+@font-face {
+	font-family: Nunito Sans;
+	font-style: normal;
+	font-weight: 500;
+	font-display: swap;
+	src: url("../fonts/Nunito Sans/NunitoSans.woff2") format("woff2"),
+	url("../fonts/Nunito Sans/NunitoSans.woff") format("woff"),
+	url("../fonts/Nunito Sans/NunitoSans.ttf") format("ttf");
+}
+
+@font-face {
+	font-family: Nunito Sans;
+	font-style: normal;
+	font-weight: 600;
+	font-display: swap;
+	src: url("../fonts/Nunito Sans/NunitoSans.woff2") format("woff2"),
+	url("../fonts/Nunito Sans/NunitoSans.woff") format("woff"),
+	url("../fonts/Nunito Sans/NunitoSans.ttf") format("ttf");
+}
+
+@font-face {
+	font-family: Nunito Sans;
+	font-style: normal;
+	font-weight: 700;
+	font-display: swap;
+	src: url("../fonts/Nunito Sans/NunitoSans.woff2") format("woff2"),
+	url("../fonts/Nunito Sans/NunitoSans.woff") format("woff"),
+	url("../fonts/Nunito Sans/NunitoSans.ttf") format("ttf");
+}
